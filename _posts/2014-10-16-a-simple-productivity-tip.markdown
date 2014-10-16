@@ -8,7 +8,7 @@ categories: productivity
 Here is a simple productivity tip that can save you a lot of time.
 
 If you start tracking whatever you do during your day using BusyBox, you may be surprised by the amount of time you are spending on some websites. Social media, I am looking at you.
-For some people, it will be Facebook. For me, it was definitely Twitter. So first things first, get the BusyBox iPhone app and start tracking what you do.
+For some people, it will be Facebook. For me, it was definitely Twitter.
 
 Often, all these distractions can wait for your lunch break or the evening. So once you have identified the sources of distraction, block the websites. You can use the LeechBlock Firefox add-on, or the StayFocused extension for Chrome.
 These will keep the distraction away by showing "site blocked" pages when you try to access a blocked website.
