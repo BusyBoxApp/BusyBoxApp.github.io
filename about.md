@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello,
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This is the BusyBox app website.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+BusyBox is a time tracking iPhone app that let's you understand how you spend your time.
+
+Whether you need to know how much time you spent on your last project, or you want to improve your behaviors and forge new habits, BusyBox is for you.
+
+You can use it for your work or your personal stuff, or both, it's up to you ;)!
+
+Claire
+
+BusyBox is crafted with love by Claire Reynaud, an indie iPhone app developer from France.
