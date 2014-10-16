@@ -6,8 +6,6 @@ permalink: /about/
 
 Hello,
 
-This is the BusyBox app website.
-
 BusyBox is a time tracking iPhone app that let's you understand how you spend your time.
 
 Whether you need to know how much time you spent on your last project, or you want to improve your behaviors and forge new habits, BusyBox is for you.
