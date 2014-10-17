@@ -1,0 +1,77 @@
+.footer {
+	padding: 20px 0 20px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: #1E1E1E;
+	color: #444;
+	font-size: 14px;
+	line-height: 16px;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.page-link {
+	line-height: 18px;
+	color: #313131;
+	font-family: "Open Sans",sans-serif;
+	font-weight: 800;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-shadow: none;
+	text-decoration: none;
+}
+
+.navbar-default .navbar-brand {
+	line-height: 18px;
+	color: #313131;
+	font-family: "Open Sans",sans-serif;
+	font-weight: 800;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-shadow: none;
+	text-decoration: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #313131;
+}
+
+body {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 300;
+    color: #111;
+}
+
+.post-title {
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+
+.post-meta {
+    font-size: 14px;
+    color: #828282;
+}
+
+.post-content {
+    margin-bottom: 30px;
+}
+
+.post-header {
+    margin-bottom: 30px;
+}
+
+.post-list {
+	padding-left: 0 !important;
+    list-style: none outside none;
+}
+
+h2 {
+	margin-top: 0;
+}

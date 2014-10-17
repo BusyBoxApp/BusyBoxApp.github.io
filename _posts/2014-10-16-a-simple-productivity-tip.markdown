@@ -18,5 +18,3 @@ Of course at the beginning, you will try to open Facebook in your browser just l
 If you have apps on your phone that send you some notifications, remove them. Or at least revoke them the right to spam you with notifications.
 
 Keep in mind that every interruption is a productivity killer. Protect your work flow and stay focused!
-
-Claire

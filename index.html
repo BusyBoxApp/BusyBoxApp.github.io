@@ -3,21 +3,38 @@ layout: default
 ---
 
 <div class="home">
+    <div class="row">
+        <div class="col-md-4">
+            <img style="width: 100%" src="images/busybox.png">
+        </div>
+        <div class="col-md-4">
+            <img style="width: 100%" src="images/busybox2.png">
+        </div>
+        <div class="col-md-4" style="padding: 150px 0px 100px">
+            <h1 style="text-align: center">BusyBox</h1>
 
-  <h1 class="page-heading">Posts</h1>
+            <h2 style="text-align: center">Track your time</h2>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+            <h2 style="text-align: center">Focus on what matters</h2>
+            <img src="https://appforscanning.s3.amazonaws.com/static/core/img/text3987.png"
+                 style="margin: auto; margin-top: 60px; margin-bottom: 30px; display: block">
+            <a href="https://itunes.apple.com/US/app/id863003886?mt=8"><img
+                    src="https://appforscanning.s3.amazonaws.com/static/core/img/download-app-store-button.png"
+                    style="margin: auto; margin-top: 30px; margin-bottom: 30px; display: block;"></a>
+        </div>
+    </div>
+    <div class="row" style="margin-top: 40px">
+        <div class="col-md-3" style="text-align: center">
+            <img src="images/appsaga.png">
+        </div>
+        <div class="col-md-3" style="text-align: center">
+            <img src="images/appadvice.jpg" style="width: 80%">
+        </div>
+        <div class="col-md-3" style="text-align: center">
+            <img src="images/apppicker.png">
+        </div>
+        <div class="col-md-3" style="text-align: center">
+            <img src="images/ipa4fun.png">
+        </div>
+    </div>
 </div>
