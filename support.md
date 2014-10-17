@@ -19,4 +19,4 @@ BusyBox is crafted by Claire Reynaud, an indie iPhone app developer from France.
 
 © 2014 Claire Reynaud EIRL. All Rights Reserved.
 <br>
-7 Boulevard Dalgabio - 42000 Saint-Etienne - France
+42000 Saint-Etienne - France
