@@ -11,13 +11,7 @@ If you start tracking whatever you do during your day using BusyBox, you may be 
 For some people, it will be Facebook. For me, it was definitely Twitter.
 
 Often, all these distractions can wait for your lunch break or the evening. So once you have identified the sources of distraction, block the websites. You can use the LeechBlock Firefox add-on, or the StayFocused extension for Chrome.
-These will keep the distraction away by showing "site blocked" pages when you try to access a blocked website.
-
-I love the message that StayFocused shows you when you block a website and change the default allowed time to 3 minutes:
-
-*"You're giving yourself LESS time? slow clap. Well played my friend."*
-
-Well played indeed!
+These will keep the distraction away by showing a "site blocked" page when you try to access a blocked website.
 
 Of course at the beginning, you will try to open Facebook in your browser just like you did before. But in no time you will have forged a new habit: not opening Facebook anymore while you are working.
 
